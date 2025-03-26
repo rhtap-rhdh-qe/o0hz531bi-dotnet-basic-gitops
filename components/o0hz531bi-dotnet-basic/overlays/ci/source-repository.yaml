@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: o0hz531bi-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/o0hz531bi-dotnet-basic
